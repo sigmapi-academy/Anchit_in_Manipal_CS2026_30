@@ -1,0 +1,21 @@
+Design and implement a record management system using the Stack data structure in Java.
+
+Each student record should contain:
+	• Roll number
+	• Name
+	• Course
+	• Marks
+
+The application should provide the following features:
+	• Add a student record. (Push)
+	• Remove the most recently added student. (Pop)
+	• Display the latest student record.(peek)
+	• Count the total number of students currently stored.
+	• Search for a student using roll number without modifying the original stack.
+	• Exit the application.
+	
+Additional Requirements:
+	• Create separate student class.
+	• Create a custom StudentStack class.
+	• Use Java Object oriented principles.
+Implement proper exception handling.
