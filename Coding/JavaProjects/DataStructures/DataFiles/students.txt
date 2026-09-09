@@ -1,7 +1,7 @@
 101, Rahul, 66
 102, Rajat, 88
 103, Priya, 66
-104, Gagan, 69
+104, Gagan, 75
 105, Amit, 75
 106, Jiya, 99
 107, Anchit, 100
